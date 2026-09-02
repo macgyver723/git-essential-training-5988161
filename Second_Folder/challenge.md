@@ -4,3 +4,5 @@
 2. Add a line to it and commit it to the local repository
 3. Add another line to the file.
 4. Commit this file
+5. Move the file into a folder.
+6. Do a new commit.
